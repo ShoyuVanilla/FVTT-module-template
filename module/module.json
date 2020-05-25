@@ -13,7 +13,7 @@
 	"languages": [],
 	
 	"url": "https://github.com/ShoyuVanilla/FoundryVTT-module-template",
-	"manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-module-template/v0.1.0/module-template/module.json",
-	"download": "https://github.com/ShoyuVanilla/FoundryVTT-module-template/archive/v0.1.0.zip"
+	"manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-module-template/v0.0.0/module-template/module.json",
+	"download": "https://github.com/ShoyuVanilla/FoundryVTT-module-template/releases/download/v0.0.0/release.zip"
 }
   
